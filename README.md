@@ -5,7 +5,7 @@
   "video": "https://github.com/FerRuizDevp/outer-space-pod-react-app/releases/download/v1.0-video/project-2.mp4",
   "githubLink": "https://github.com/FerRuizDevp/outer-space-pod-react-app",
   "netlifyLink": "https://outer-space-pod-react-app.netlify.app/",
-  "tags": ["HTML", "CSS", "JavaScript", "React", "NodeJS", "API", "Vite-project", "react-app", "dynamic-design"]
+  "tags": ["HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # 🚀 NASA API App
