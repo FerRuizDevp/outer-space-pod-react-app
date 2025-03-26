@@ -3,10 +3,9 @@
   "title": "NASA API App",
   "description": "A web app that fetches data from NASA's API and displays images and astronomy facts of the day.",
   "video": "https://github.com/FerRuizDevp/outer-space-pod-react-app/releases/download/v1.0-video/project-2.mp4",
-  "imagePreview": " ",
   "githubLink": "https://github.com/FerRuizDevp/outer-space-pod-react-app",
   "netlifyLink": "https://outer-space-pod-react-app.netlify.app/",
-  "tags": ["react", "react-app", "vite-project", "dynamic-design"]
+  "tags": ["HTML", "CSS", "JavaScript", "React", "NodeJS", "API", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # 🚀 NASA API App
